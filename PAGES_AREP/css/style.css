@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+#header #nav{
+    background-color: #001f3f;
+    padding: 1%;
+
+}
+
+#header #nav .contenido_nav{
+    color:#fff;
+
+}
+
+#header #nav .contenido_nav il .navegar{
+    text-decoration: none;
+    color:#fff;
+    padding: 10px;
+}
+.navegar:hover{
+    background-color: #0074D9;
+}
+
+#header #nav .contenido_nav il{
+
+    font-size: 30px;
+}
+
+.t_navegar{
+    margin-right: 30px;
+    color:#DDDDDD;
+
+}
+
+#section{
+margin:30px;
+
+}
